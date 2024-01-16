@@ -11,7 +11,8 @@ As it turns out, there are several reasons why people use Markdown instead of WY
 •	Markdown is platform independent. You can create Markdown-formatted text on any device running any operating system.
 •	Markdown is future proof. Even if the application you’re using stops working at some point in the future, you’ll still be able to read your Markdown-formatted text using a text editing application. This is an important consideration when it comes to books, university theses, and other milestone documents that need to be preserved indefinitely.
 •	Markdown is everywhere. Websites like Reddit and GitHub support Markdown, and lots of desktop and web-based applications support it.
-3.	What symbol will create a heading in Markdown? #
+
+4.	What symbol will create a heading in Markdown? #
 1.	How many do you need to create the largest heading? one
 2.	How many do you need to create the smallest heading? six
 4.	When making text bold or italicized for emphasis, it is best practice to use which symbol?
